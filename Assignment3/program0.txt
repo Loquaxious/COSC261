@@ -1,0 +1,6 @@
+n := 4;
+read n;
+write n;
+while n > 2 and n < 5 or not i > 0 do 
+    n := n - 1
+end

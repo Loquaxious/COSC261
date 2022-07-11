@@ -1,0 +1,5 @@
+if n > 2 and n > 1 and i > 5 then
+    z := 1
+else 
+    z := 0
+end
